@@ -432,7 +432,7 @@ Found a paper that should be here? Contributions are especially welcome for pape
 <a id="citation"></a>
 ## 📌 Citation
 
-If you find this collection useful, please cite the survey:
+If you find this collection useful, please ⭐ the repository.
 
 
 
