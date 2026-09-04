@@ -383,14 +383,14 @@ Standard task accuracy conflates the store, the access mechanism, and the predic
 
 Coverage of the memory spectrum: ✅ substantial · 🟡 partial · ⬜ little/none. **#** ≈ number of surveyed works.
 
-| Survey | # | Internal | [Explicit](#explicit) | [Retrieval](#retrieval) | [Agentic](#agentic) | Problem view |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Time-Series Forecasting with Deep Learning](https://scholar.google.com/scholar?q=%22Time-series%20forecasting%20with%20deep%20learning%3A%20a%20survey%22) | 46 | ✅ | 🟡 | ⬜ | ⬜ | ⬜ |
-| [Transformers in Time Series](https://scholar.google.com/scholar?q=%22Transformers%20in%20time%20series%3A%20A%20survey%22) | 51 | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
-| [Graph Neural Networks for Time Series](https://scholar.google.com/scholar?q=%22A%20survey%20on%20graph%20neural%20networks%20for%20time%20series%3A%20Forecasting%2C%20classification%2C%20imputation%2C%20and%20anomaly%20detection%22) | 301 | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
-| [Foundation Models for Time Series](https://scholar.google.com/scholar?q=%22Foundation%20models%20for%20time%20series%20analysis%3A%20A%20tutorial%20and%20survey%22) | 107 | 🟡 | ⬜ | 🟡 | 🟡 | ⬜ |
-| [Reasoning and Agentic Systems in Time Series with LLMs](https://scholar.google.com/scholar?q=%22A%20Survey%20of%20Reasoning%20and%20Agentic%20Systems%20in%20Time%20Series%20with%20Large%20Language%20Models%22) | 143 | ⬜ | ⬜ | 🟡 | ✅ | 🟡 |
-| **➡️ This survey** | **146** | 🟡 | ✅ | ✅ | ✅ | ✅ |
+| Survey | Internal | [Explicit](#explicit) | [Retrieval](#retrieval) | [Agentic](#agentic) | Problem view |
+|---|:---:|:---:|:---:|:---:|:---:|
+| [Time-Series Forecasting with Deep Learning](https://scholar.google.com/scholar?q=%22Time-series%20forecasting%20with%20deep%20learning%3A%20a%20survey%22) | ✅ | 🟡 | ⬜ | ⬜ | ⬜ |
+| [Transformers in Time Series](https://scholar.google.com/scholar?q=%22Transformers%20in%20time%20series%3A%20A%20survey%22) | 🟡 | ⬜ | ⬜ | ⬜ | ⬜ |
+| [Graph Neural Networks for Time Series](https://scholar.google.com/scholar?q=%22A%20survey%20on%20graph%20neural%20networks%20for%20time%20series%3A%20Forecasting%2C%20classification%2C%20imputation%2C%20and%20anomaly%20detection%22) | 🟡 | 🟡 | ⬜ | ⬜ | ⬜ |
+| [Foundation Models for Time Series](https://scholar.google.com/scholar?q=%22Foundation%20models%20for%20time%20series%20analysis%3A%20A%20tutorial%20and%20survey%22) | 🟡 | ⬜ | 🟡 | 🟡 | ⬜ |
+| [Reasoning and Agentic Systems in Time Series with LLMs](https://scholar.google.com/scholar?q=%22A%20Survey%20of%20Reasoning%20and%20Agentic%20Systems%20in%20Time%20Series%20with%20Large%20Language%20Models%22) | ⬜ | ⬜ | 🟡 | ✅ | 🟡 |
+| **➡️ This survey** | 🟡 | ✅ | ✅ | ✅ | ✅ |
 
 **Adjacent memory surveys** — [Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564) · [Cognitive Architectures for Language Agents](https://scholar.google.com/scholar?q=%22Cognitive%20Architectures%20for%20Language%20Agents%22) · [Agentic RAG: A Survey](https://arxiv.org/abs/2501.09136)
 
