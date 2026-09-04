@@ -434,16 +434,7 @@ Found a paper that should be here? Contributions are especially welcome for pape
 
 If you find this collection useful, please cite the survey:
 
-```bibtex
-@article{nguyen2026memoryts,
-  title   = {Memory in Deep Time-Series Models},
-  author  = {Nguyen, Minh Hoang and Nguyen, Huu Hiep and Nguyen, Manh and
-             Do, Van Dai and Nguyen, Dung and Le, Hung},
-  journal = {IEEE Access},
-  year    = {2026},
-  note    = {Deakin Applied AI Initiative (A2I2), Deakin University}
-}
-```
+
 
 <sub>Paper links point to the DOI, arXiv, or proceedings entry recorded in the survey's <code>references.bib</code>; where no identifier was recorded, the link is a Google Scholar title search.</sub>
 
