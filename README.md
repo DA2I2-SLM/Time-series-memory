@@ -434,7 +434,17 @@ Found a paper that should be here? Contributions are especially welcome for pape
 
 If you find this collection useful, please ⭐ the repository.
 
-
+```
+@misc{nguyen2026memorydeeptimeseriesmodels,
+      title={Memory in Deep Time-Series Models}, 
+      author={Minh Hoang Nguyen and Huu Hiep Nguyen and Manh Nguyen and Van Dai Do and Dung Nguyen and Hung Le},
+      year={2026},
+      eprint={2609.06006},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2609.06006}, 
+}
+```
 
 <sub>Paper links point to the DOI, arXiv, or proceedings entry recorded in the survey's <code>references.bib</code>; where no identifier was recorded, the link is a Google Scholar title search.</sub>
 
